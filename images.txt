@@ -1,1 +1,1 @@
-tomcat:9.0.108-jre21-temurin-noble
+hello-world:latest
